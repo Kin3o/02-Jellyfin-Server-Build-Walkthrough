@@ -2,7 +2,7 @@
 
 This guide recreates the verified local Jellyfin deployment. It uses direct instructions and explains why each major choice matters. Values shown here belong to this lab; substitute addresses and resource allocations appropriate for your own environment.
 
-For the mistakes encountered during the build, see [03-Jellyfin-Troubleshooting-Lab.md](03-Jellyfin-Troubleshooting-Lab.md). Planned NAS storage and remote access are documented separately in [04-Jellyfin-Future-Plans.md](04-Jellyfin-Future-Plans.md).
+For the mistakes encountered during the build, see [03-Jellyfin-Troubleshooting-Lab.md](https://github.com/Kin3o/03-Jellyfin-Troubleshooting-Lab). Planned NAS storage and remote access are documented separately in [04-Jellyfin-Future-Plans.md](https://github.com/Kin3o/04-Jellyfin-Future-Plans).
 
 ## Phase 1 - Confirm the architecture and prerequisites
 
